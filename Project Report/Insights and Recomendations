@@ -1,0 +1,16 @@
+Insights and Recommendations
+
+We answered our proposed questions through extensive exploratory statistics, time series, and geographical analysis. We derive our key insights and recommendations based upon our findings.
+
+Insights:
+-	Crimes without an arrest are fluctuating seasonally, but crimes with arrests are remaining steady. Outdoor crimes fluctuate with great seasonality compared to indoor crimes.
+-	Crime type “Theft” is the most occurring crime in Chicago, out of which one third of the incidents have resulted in arrest.
+-	Crime incidents occur more in the Summer season, as it is one of the best times to visit Chicago to enjoy the events and festivals, this is one of the statistics that need to be analyzed and need to be considered. 
+-	The most popular hour for any crime is 12pm. This is also true for the most frequent crime, theft.
+-	Narcotics crime reports in district 11 have been increasing in numbers since 2017
+
+Recommendations: 
+
+-	Since the counts of reported crimes are peaking in the warmer months, and the proportion of arrests are lowest in the warmer months, we want to make recommendations about tackling the peaking outdoor crimes. Since the police force will not likely increase the number of officers in the summer, they can distribute their force better based on the density of outdoor crimes. They should also implement more emergency phone booths (blue lights) in the outdoor crime-dense areas, districts 1, 8, 11, 10, 15 and 25. Here is one emergency phone booth and security producer from nearby Wisconson: Rath Security https://www.rathsecurity.com/emergencyphone.html.
+-	Since district 11 is seeing an increase in narcotics related crimes, the city should invest in drug prevention and rehabilitation programs in this district, or at least review to see if their programs have lost effectiveness over the past 3 years.
+-	Since the frequency of crimes peaks at 12pm central, the police force should research if this is something they can control or if the time is coincidental. For example, they can check to see if 12pm is a common time for police shifts ending and beginning, and verify that they are fully staffed at this time.
